@@ -1,1 +1,1 @@
-Calculadora simples que fiz para estudo de Java
+Calculadora simples para estudo de Java e lógica de programação
